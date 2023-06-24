@@ -20,6 +20,8 @@ For example:
 ```python
 game = GuessingGame(10)
 
+create a class hangman that utilzes the guessing game class
+
 game.solved()   # => False
 
 game.guess(5)  # => 'low'
